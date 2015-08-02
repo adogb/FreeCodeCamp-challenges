@@ -4,4 +4,4 @@ function meetBonfire(argument) {
   return true;
 }
 
-meetBonfire("You can do this!");
+meetBonfire("You can do this!" );
