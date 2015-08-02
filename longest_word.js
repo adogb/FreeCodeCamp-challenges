@@ -1,7 +1,7 @@
 function findLongestWord(str) {
   var arr = str.split(" ");
   var long = "";
-  for (i=0; i<arr.length;i++){
+  for (i= 0; i<arr.length;i++){
     if (arr[i].length>long.length){
       long=arr[i];
     }
